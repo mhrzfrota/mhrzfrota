@@ -19,12 +19,9 @@ object **MATHEUS** {
 
 ## Linguagens e ferramentas
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Status
 
-[![card](https://github-readme-stats.vercel.app/api?username=matheusfrota&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=matheusfrota&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Rede sociais
