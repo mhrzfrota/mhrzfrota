@@ -1,6 +1,6 @@
 # Olá devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de aprender a criar sistemas e armazenar dados.
 
 ## Mais sobre mim
 
@@ -37,7 +37,7 @@ object **MATHEUS** {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**MATHEUS FROTA** github stats"/>
 </a>
 
 [website]: lopes-veiculos.ueniweb.com
