@@ -16,15 +16,6 @@ object **MATHEUS** {
 
 }
 ```
-
-## Linguagens e ferramentas
-
-
 ## Status
 
-
-
-## Rede sociais
-
-🏡 [Website][website] **|**
-👔 [LinkedIn][linkedin]
+Desenvolvedor em ProBank.
