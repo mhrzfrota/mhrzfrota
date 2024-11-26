@@ -18,4 +18,4 @@ object **MATHEUS** {
 ```
 ## Status
 
-Desenvolvedor em ProBank.
+Desenvolvedor disponível para estágio/freelancer.
