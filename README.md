@@ -4,8 +4,6 @@
 
 💡 Tenho experiência prática em projetos web e mobile, automações com IA, desenvolvimento de APIs REST e integração com bancos de dados relacionais e NoSQL.
 
-🚀 Venho aplicando meus conhecimentos em:
-
 Back-End:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
