@@ -15,13 +15,6 @@ Front-End:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
- 📂 Projetos em Destaque
-#### [TechFauna](https://github.com/mhrzfrota/TechFauna)
-Sistema completo com **React + Node.js** para gestão de recintos e espécies de animais.
-- Login/Registro com Supabase
-- Dashboard com CRUD de dados
-- Responsivo e seguro
-
   ### 📫 Contato - Disponível para novas oportunidades
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfrt)
