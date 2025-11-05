@@ -1,23 +1,31 @@
-# Desenvolvedor Back-End
+🖥️⚙️ Matheus Frota – Desenvolvedor Back-end
 
-🔍 Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIFOR, com conclusão prevista para 2025.
+🚀 Engenheiro de software com foco em arquitetura back-end, automação e integração de dados
+💡 Especialista em APIs, sistemas escaláveis e monitoramento de plataformas sociais
+📊 Experiência sólida com Python (Flask/Django), PostgreSQL, Supabase e automações com n8n
 
-💡 Tenho experiência prática em projetos web e mobile, automações com IA, desenvolvimento de APIs REST e integração com bancos de dados relacionais e NoSQL.
+🧠 Sobre mim
 
-Back-End:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
-![Flet](https://img.shields.io/badge/Flet-44CC11?style=flat)
+Sou desenvolvedor back-end com foco em engenharia de software e automação de sistemas, utilizando Python, Flask/Django e bancos de dados relacionais.
+Atuo na integração de APIs sociais, criação de dashboards de performance e no desenvolvimento de plataformas que unem marketing e tecnologia.
 
-Front-End:
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+Tenho experiência prática em automação de marketing, integração com Meta Graph API, gerenciamento de dados em nuvem com Supabase e deploy com Docker + GitHub Actions.
+Sou movido por resolver problemas complexos de forma estruturada, escalável e eficiente, buscando sempre boas práticas, segurança e performance no código.
 
-  ### 📫 Contato - Disponível para novas oportunidades
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfrt)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matheusfilho9@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mhrzfrota)
+Atualmente, desenvolvo produtos digitais próprios e soluções sob demanda para monitoramento social, gestão de dados, integração entre plataformas e processos automatizados em múltiplos ambientes.
 
+🛠️ Tecnologias & Ferramentas
+<div align="center"> <table style="background-color: white; border-collapse: collapse; width: 100%;"> <thead> <tr> <th width="10%">💻 Back-end</th> <th width="10%">🎨 Front-end</th> <th width="10%">🗄️ Banco de Dados</th> <th width="10%">⚙️ DevOps</th> <th width="10%">🧪 Testes</th> <th width="10%">🧰 Ferramentas</th> <th width="10%">🤖 Automação</th> <th width="10%">☁️ Cloud / Deploy</th> <th width="10%">📚 Frameworks</th> <th width="10%">🎯 Em Aprendizado</th> </tr> </thead> <tbody> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/><br>Django <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/><br>Flask </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React Native <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50"/><br>Supabase </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub Actions </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="50"/><br>Pytest <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VSCode <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git </td> <td align="center"> <img src="https://n8n.io/favicon.ico" width="50"/><br>n8n <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>APIs e Scripts </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux VPS <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/caddy/caddy-original.svg" width="50"/><br>Caddy </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/><br>Flask <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/><br>Django REST </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50"/><br>AWS <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/><br>Terraform </td> </tr> </tbody> </table> </div>
+🚀 Principais Projetos
+
+🧩 Sistemas e Integrações Back-end
+
+<table> <tr> <td align="center"> <a href="https://github.com/Ambiente-MSL/DashboardSocial"> <img src="https://img.shields.io/badge/-Social%20Monitor%20System-111?style=for-the-badge&logo=python&logoColor=white" /> <br/>📊 <strong>Social Monitor System (MSL)</strong> </a> <br/> <sub>Dashboard completo com integração à Meta Graph API, Supabase e Flask.</sub> </td> <td align="center"> <a href="https://github.com/MatheusFrota/TechFauna"> <img src="https://img.shields.io/badge/-TechFauna-00695C?style=for-the-badge&logo=python&logoColor=white" /> <br/>🦓 <strong>TechFauna</strong> </a> <br/> <sub>Sistema de gestão de recintos e espécies com React + Supabase.</sub> </td> </tr> <tr> <td align="center"> <a href="https://github.com/MatheusFrota/MapeiaPlus"> <img src="https://img.shields.io/badge/-Mapeia+-1E88E5?style=for-the-badge&logo=react&logoColor=white" /> <br/>🗺️ <strong>Mapeia+</strong> </a> <br/> <sub>Plataforma de análise de visitantes e turismo com dashboards interativos.</sub> </td> </tr> </table>
+📊 Estatísticas GitHub
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFrota&show_icons=true&theme=github_dark&custom_title=Estatísticas%20do%20GitHub"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFrota&layout=compact&theme=github_dark&custom_title=Linguagens%20Mais%20Usadas"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFrota&theme=github-dark&area=true&hide_border=false&custom_title=Gráfico%20de%20Atividades" alt="Gráfico de Atividades"> </p>
+📫 Contato
+
+
+📬 frotamht@gmail.com
+
+“Sistemas bem projetados não apenas automatizam — eles amplificam o impacto humano.” ⚙️
