@@ -20,5 +20,3 @@ Atualmente, desenvolvo produtos digitais próprios e soluções sob demanda para
 
 📫 Contato
 📬 frotamht@gmail.com
-
-Sistemas bem projetados não apenas automatizam — eles amplificam o impacto humano. ⚙️
