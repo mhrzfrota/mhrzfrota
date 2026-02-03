@@ -1,4 +1,4 @@
-🖥️⚙️ Matheus Frota – Desenvolvedor Back-end
+🖥️⚙️ Matheus Frota – Desenvolvedor de software
 
 🚀 Engenheiro de software com foco em arquitetura back-end, automação e integração de dados
 💡 Especialista em APIs, sistemas escaláveis e monitoramento de plataformas sociais
