@@ -1,4 +1,4 @@
-# Olá, me chamo Matheus Frota – Desenvolvedor de software 🖥️⚙️
+# Olá, me chamo Matheus Frota!
 
 🚀 Engenheiro de software com foco em arquitetura back-end, automação e integração de dados
 💡 Especialista em APIs, sistemas escaláveis e monitoramento de plataformas sociais
