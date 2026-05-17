@@ -6,7 +6,7 @@
 
 📊 Experiência sólida com Python (Flask/Django), banco de dados(PostgreSQL,Supabase) e automações
 
-🎓 **Formação:** Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR)
+🎓 Graduando em Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR)
 <br>
 <br>
 
