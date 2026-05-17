@@ -1,17 +1,12 @@
 # Olá, me chamo Matheus Frota!
 
 🚀 Engenheiro de software com foco em arquitetura back-end, automação e integração de dados
-💡 Especialista em APIs, sistemas escaláveis e monitoramento de plataformas sociais
-📊 Experiência sólida com Python (Flask/Django), PostgreSQL, Supabase e automações com n8n
+💡 Especialista em APIs, sistemas escaláveis e soluções digitais
+📊 Experiência sólida com Python (Flask/Django), banco de dados(PostgreSQL,Supabase) e automações
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR)
 
 <br>
 
-### 👨‍💻 Sobre Mim
-Desenvolvedor Full Stack cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas** e com 1 ano de experiência trabalhando na área.
-
-  - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR) 
-- 🚀 **Python/PostgreSQL**.
-- 🌱 Habilidades em **Html**,**Css** e **JavaScript**.
 
 <br>
 
@@ -42,5 +37,4 @@ Desenvolvedor Full Stack cursando o 5º semestre de **Análise e Desenvolvimento
   </a>
 </p>
 
-📫 Contato
 📬 frotamht@gmail.com
