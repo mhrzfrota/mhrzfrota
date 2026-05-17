@@ -1,17 +1,18 @@
 # Fala comigo, me chamo Matheus Frota.
 
 🚀 Engenheiro de software com foco em arquitetura back-end, automação e integração de dados
-💡 Especialista em APIs, sistemas escaláveis e soluções digitais
-📊 Experiência sólida com Python (Flask/Django), banco de dados(PostgreSQL,Supabase) e automações
-🎓 **Formação:** Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR)
 
+💡 Especialista em APIs, sistemas escaláveis e soluções digitais
+
+📊 Experiência sólida com Python (Flask/Django), banco de dados(PostgreSQL,Supabase) e automações
+
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR)
 <br>
 <br>
 
 ### 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -30,9 +31,5 @@
   <a href="https://www.linkedin.com/in/matheusfrt/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:frotamht@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 📬 frotamht@gmail.com
