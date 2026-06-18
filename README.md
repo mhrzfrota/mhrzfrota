@@ -9,7 +9,6 @@
 
 
 ### langs:
-
 > JavaScript, TypeScript, Python, Java, SQL, HTML, CSS.
 
 
