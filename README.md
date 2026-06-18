@@ -1,35 +1,50 @@
 # Fala comigo, me chamo Matheus Frota 💯
 
-🚀 Engenheiro de software com foco em arquitetura back-end, automação e integração de dados
-
-💡 Especialista em APIs, sistemas escaláveis e soluções digitais
-
-📊 Experiência sólida com Python (Flask/Django), banco de dados(PostgreSQL,Supabase) e automações
-
-🎓 Graduando em Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR)
-<br>
-<br>
-
-### 🛠️ Tecnologias e Ferramentas
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+💻 Backend Developer focused on Data, APIs and Automation  
+🎓 Systems Analysis and Development student  
+🌱 I'm always learning and building client projects  
+🚀 Turning ideas and repetitive processes into digital solutions  
+🥋 Code, gym and jiu-jitsu — always evolving  
 
 <br>
 
-### 🌐 Contatos
+### langs:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheusfrt/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+> JavaScript, TypeScript, Python, Java, SQL, HTML, CSS.
 
-📬 frotamht@gmail.com
+<br>
+
+### tools:
+
+- [Node.js](https://nodejs.org/) — backend development
+- [Express](https://expressjs.com/) — APIs and web services
+- [React](https://react.dev/) — web development
+- [Next.js](https://nextjs.org/) — full-stack applications
+- [Supabase](https://supabase.com/) — database and authentication
+- [PostgreSQL](https://www.postgresql.org/) — relational database
+- [MySQL](https://www.mysql.com/) — relational database
+- [Docker](https://www.docker.com/) — containers and deployment
+- [Python](https://www.python.org/) — automation and data analysis
+- [Pandas](https://pandas.pydata.org/) — data processing
+- [Git](https://git-scm.com/) — version control
+- [Vercel](https://vercel.com/) — web deployment
+
+<br>
+
+### currently working on:
+
+- Backend systems and REST APIs
+- Business process automation
+- Data analysis and integrations
+- Landing pages and institutional websites
+- Digital signage management SaaS
+- Real-world freelance projects
+
+<br>
+
+### social:
+
+[GitHub](https://github.com/mhrzfrota) |
+[LinkedIn](https://linkedin.com/in/matheusfrt) |
+[Instagram](https://instagram.com/emefeservices) |
+[Portfolio](https://emefeservices.vercel.app)
