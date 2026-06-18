@@ -6,13 +6,13 @@
 🚀 Turning ideas and repetitive processes into digital solutions  
 🥋 Code, gym and jiu-jitsu — always evolving  
 
-<br>
+
 
 ### langs:
 
 > JavaScript, TypeScript, Python, Java, SQL, HTML, CSS.
 
-<br>
+
 
 ### tools:
 
