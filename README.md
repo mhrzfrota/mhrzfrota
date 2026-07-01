@@ -1,4 +1,4 @@
-# Fala comigo, me chamo Matheus Frota 💯
+# Hey there, my name is Matheus Frota. 💯
 
 💻 Backend Developer focused on Data, APIs and Automation  
 🎓 Systems Analysis and Development student  
