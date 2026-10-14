@@ -1,7 +1,7 @@
 # Hey there, my name is Matheus Frota. 💯
 
 💻 Full Stack Developer focused on Data, APIs and Automation  
-🎓 Systems Analysis and Development student  
+🎓 Degree in Systems Analysis and Development  
 🌱 I'm always learning and building client projects  
 🚀 Turning ideas and repetitive processes into digital solutions  
 🥋 Code, gym and jiu-jitsu — always evolving  
